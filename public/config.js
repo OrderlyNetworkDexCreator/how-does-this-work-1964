@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "how does this work",
   "VITE_SEO_SITE_DESCRIPTION": "why did my son even buy me this thing",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/how-does-this-work-1964/",
+  "VITE_SEO_SITE_URL": "https://tojimmyhopeyouhaveagoodbirthdayfrompa.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
